@@ -34,7 +34,7 @@ Standard Dollar Cost Averaging (DCA) buys the same amount every month, regardles
 
 1. **Clone the repository:**
    ```bash
-   git clone
+   git clone https://github.com/KUBINOO/invest-analysis-tools.git
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
